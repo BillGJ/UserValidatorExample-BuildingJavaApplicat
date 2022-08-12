@@ -77,4 +77,3 @@ Manifest-Version: 1.0
 Created-By: 11.0.2 (Oracle Corporation)
 Main-Class: UserValidatorExample
 ```
-
