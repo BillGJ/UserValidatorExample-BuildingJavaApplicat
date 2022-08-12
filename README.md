@@ -64,7 +64,7 @@ And we can run the `jar` file with:
 java -jar validator.jar
 ```
 
-`jar` files are built on ZIP fomat, you can uncompress it by using:
+`jar` files are built on ZIP format, you can uncompress it by using:
 
 ```
 jar -xf validator.jar
